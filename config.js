@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.Youtube.com',
 				},
 				{
-					name: 'Server',
-					link: '192.168.0.189',
+					name: 'TFT List',
+					link: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQXGfKXwmtXV3JXkkvFW9kcvXtWdEpXq-5uohygcek-qM19CvuWTZYf5VwrgXqwMBVLhVomP0yp_jEZ/pubhtml',
 				},
 				{
 					name: 'Plex',
