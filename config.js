@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQXGfKXwmtXV3JXkkvFW9kcvXtWdEpXq-5uohygcek-qM19CvuWTZYf5VwrgXqwMBVLhVomP0yp_jEZ/pubhtml',
 				},
 				{
-					name: 'Plex',
-					link: 'https://www.trello.com',
+					name: 'Server',
+					link: 'http://192.168.0.189/Dashboard',
 				},
 				{
-					name: 'Paperless',
-					link: 'https://www.slack.com',
+					name: 'Jellyfin',
+					link: 'http://192.168.0.189:8096/web/index.html#!/home.html',
 				},
 			],
 		},
